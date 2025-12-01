@@ -1,0 +1,14 @@
+
+streamlit==1.38.0
+pandas==2.2.1
+numpy==1.26.4
+matplotlib==3.8.4
+seaborn==0.13.2
+scikit-learn==1.3.2
+joblib==1.3.2
+
+# Opcionais (se a build ficar lenta ou falhar, comente estas linhas).
+imbalanced-learn==0.11.0
+xgboost==1.7.6
+lightgbm==4.1.0
+shap==0.44.1
